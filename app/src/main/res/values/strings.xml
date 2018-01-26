@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hisab Kitab</string>
+    <string name="name_txt">Enter Name</string>
+    <string name="btn_save">Save</string>
+    <string name="amount">Enter Amount</string>
+    <string name="Maintitle">Enter Hisab</string>
+    <string name="btn_view">view hisab</string>
+    <string name="note">MEMO NOTE</string>
+
+
+
+</resources>
